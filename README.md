@@ -1,4 +1,4 @@
-# HALE_INTERNSHIP
+# HALE IN-SEMESTER INTERNSHIP
 
 ## Pixel-level Semantic Segmentation Task on MARIDA Dataset
 
